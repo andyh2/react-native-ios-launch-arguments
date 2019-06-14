@@ -1,6 +1,6 @@
 {
     "name": "react-native-ios-launch-arguments",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "React Native Module to get app launch parameters on IOS",
     "license": "MIT",
     "main": "index.js",
@@ -8,9 +8,9 @@
     "bugs": {
       "url": "https://github.com/thorgate/react-native-ios-launch-arguments/issues"
     },
-    "homepage": "https://github.com/thorgate/react-native-ios-launch-arguments",
+    "homepage": "https://github.com/andyh2/react-native-ios-launch-arguments",
     "repository": {
       "type": "git",
-      "url": "https://github.com/thorgate/react-native-ios-launch-arguments"
+      "url": "https://github.com/andyh2/react-native-ios-launch-arguments"
     }
 }
